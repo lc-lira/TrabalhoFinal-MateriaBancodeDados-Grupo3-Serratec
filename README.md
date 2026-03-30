@@ -23,27 +23,41 @@ Simulação de preço dinâmico com base no estoque
 O sistema é composto pelas seguintes tabelas:
 
 CATEGORIA → Tipos de produtos
+
 PRODUTO → Informações dos produtos
+
 ESTOQUE → Quantidade disponível
+
 HISTORICO_PRECO → Variação de preços ao longo do tempo
+
 VENDA → Registro das vendas
+
 ITEM_VENDA → Produtos vendidos em cada venda
+
 📊 Consultas Desenvolvidas
 
 O projeto contém consultas para:
 
 Listar produtos e categorias
+
 Verificar estoque atual e mínimo
+
 Consultar preços atuais e históricos
+
 Calcular total de vendas
+
 Identificar produtos mais vendidos
+
 Analisar faturamento por categoria
+
 Detectar produtos com estoque baixo
+
 🚀 Desafio Implementado
 
 Foi desenvolvida uma lógica de preço dinâmico, onde:
 
 Produtos com estoque abaixo do mínimo têm seus preços aumentados
+
 Os novos preços são registrados no histórico
 
 👥 Integrantes do Grupo 3
@@ -56,6 +70,7 @@ Professor:Felipe Lacerda
 
 🛠️ Tecnologias Utilizadas
 PostgreSQL
+
 SQL (DDL, DML, DQL)
 
 📎 Observação
