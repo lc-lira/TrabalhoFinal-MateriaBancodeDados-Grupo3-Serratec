@@ -66,7 +66,7 @@ Nicolas Ramos,
 Thiago Souza,
 Bruno Passamani,
 Lucas Lira,
-Douglas Mathais,
+Douglas Mathias,
 Professor:Felipe Lacerda
 
 🛠️ Tecnologias Utilizadas
