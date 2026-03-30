@@ -1,4 +1,4 @@
-# TrabalhoFinal-Mat-riaBancodeDados-Grupo3-Serratec
+# TrabalhoFinal-MateriaBancodeDados-Grupo3-Serratec
 
 🛒 Sistema de Mercado com Preço Dinâmico
 
