@@ -40,11 +40,11 @@ Produtos com estoque abaixo do mínimo têm seus preços aumentados
 Os novos preços são registrados no histórico
 
 👥 Integrantes do Grupo 3
-Nicolas Ramos
-Thiago Souza
-Bruno Passamani
-Lucas Lira
-Douglas Mathis
+Nicolas Ramos,
+Thiago Souza,
+Bruno Passamani,
+Lucas Lira,
+Douglas Mathais,
 Professor:Felipe Lacerda
 
 🛠️ Tecnologias Utilizadas
