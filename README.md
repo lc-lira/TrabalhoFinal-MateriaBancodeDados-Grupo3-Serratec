@@ -5,12 +5,19 @@
 Projeto desenvolvido para a disciplina de Banco de Dados (Serratec), com o objetivo de simular o funcionamento de um sistema de mercado com controle de estoque, vendas e histórico de preços.
 
 📌 Funcionalidades
+
 Cadastro de categorias e produtos
+
 Controle de estoque (com estoque mínimo)
+
 Histórico de preços dos produtos
+
 Registro de vendas e itens vendidos
+
 Consultas SQL para análise de dados
+
 Simulação de preço dinâmico com base no estoque
+
 🗂️ Estrutura do Banco
 
 O sistema é composto pelas seguintes tabelas:
