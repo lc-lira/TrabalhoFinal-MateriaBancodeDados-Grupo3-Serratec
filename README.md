@@ -61,6 +61,7 @@ Produtos com estoque abaixo do mínimo têm seus preços aumentados
 Os novos preços são registrados no histórico
 
 👥 Integrantes do Grupo 3
+
 Nicolas Ramos,
 Thiago Souza,
 Bruno Passamani,
@@ -69,6 +70,7 @@ Douglas Mathais,
 Professor:Felipe Lacerda
 
 🛠️ Tecnologias Utilizadas
+
 PostgreSQL
 
 SQL (DDL, DML, DQL)
