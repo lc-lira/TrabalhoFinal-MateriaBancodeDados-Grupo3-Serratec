@@ -38,15 +38,19 @@ Foi desenvolvida uma lógica de preço dinâmico, onde:
 
 Produtos com estoque abaixo do mínimo têm seus preços aumentados
 Os novos preços são registrados no histórico
+
 👥 Integrantes do Grupo 3
 Nicolas Ramos
 Thiago Souza
 Bruno Passamani
 Lucas Lira
 Douglas Mathis
+Professor:Felipe Lacerda
+
 🛠️ Tecnologias Utilizadas
 PostgreSQL
 SQL (DDL, DML, DQL)
+
 📎 Observação
 
 Este projeto tem fins acadêmicos e foi desenvolvido como parte da formação de Residência TIC em Software pelo Serratec.
